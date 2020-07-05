@@ -65,7 +65,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "canonical-url": false
   },
   "pages": {
     "index.html": {
@@ -73,7 +74,7 @@
         "main": true,
         "title": "Thinkmarketing",
         "meta_descr": "Услуги по интернет маркетингу и реклама для предприятий. Повышайте трафик и объем продаж\nТорговые кампании в Google помогут вам привлечь больше покупателей на сайт и в обычный магазин.",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"SQg1-p_jcBqRryu7qwixxJGGGYbedTJqHxDEk3oueMo\" />",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1725.png"
